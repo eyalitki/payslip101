@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Payslip101
-email: your-email@example.com
+email: eyal.itkin@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   תלוש השכר - מדריך למתחילים
 baseurl: "" # the subpath of your site, e.g. /blog
