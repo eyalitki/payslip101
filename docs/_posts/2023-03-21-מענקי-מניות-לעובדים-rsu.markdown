@@ -175,19 +175,19 @@ permalink: /post/:title/
 להלן דוגמאות מה-5 שנים האחרונות עבור תאגידי ענק אמריקאיים אשר לכולם משרדים בארץ:
 
 <img style="display: block; margin: auto;"
-src="/_images/google_stock.png" alt="מניית חברת Google ב-5 שנים האחרונות" title="מניית חברת Google ב-5 שנים האחרונות">
+src="/assets/images/google_stock.png" alt="מניית חברת Google ב-5 שנים האחרונות" title="מניית חברת Google ב-5 שנים האחרונות">
 <p style="text-align: center;">
 איור 1: מניית חברת Google ב-5 שנים האחרונות
 </p>
 
 <img style="display: block; margin: auto;"
-src="/_images/apple_stock.png" alt="מניית חברת Apple ב-5 שנים האחרונות" title="מניית חברת Apple ב-5 שנים האחרונות">
+src="/assets/images/apple_stock.png" alt="מניית חברת Apple ב-5 שנים האחרונות" title="מניית חברת Apple ב-5 שנים האחרונות">
 <p style="text-align: center;">
 איור 2: מניית חברת Apple ב-5 שנים האחרונות
 </p>
 
 <img style="display: block; margin: auto;"
-src="/_images/amazon_stock.png" alt="מניית חברת Amazon ב-5 שנים האחרונות" title="מניית חברת Amazon ב-5 שנים האחרונות">
+src="/assets/images/amazon_stock.png" alt="מניית חברת Amazon ב-5 שנים האחרונות" title="מניית חברת Amazon ב-5 שנים האחרונות">
 <p style="text-align: center;">
 איור 3: מניית חברת Amazon ב-5 שנים האחרונות
 </p>
@@ -195,7 +195,7 @@ src="/_images/amazon_stock.png" alt="מניית חברת Amazon ב-5 שנים ה
 ואפילו בחברות אמריקאיות בסדר גודל קטן יותר התופעה נשמרת ולעיתים אף מקצינה:
 
 <img style="display: block; margin: auto;"
-src="/_images/nvidia_stock.png" alt="מניית חברת NVIDIA ב-5 שנים האחרונות" title="מניית חברת NVIDIA ב-5 שנים האחרונות">
+src="/assets/images/nvidia_stock.png" alt="מניית חברת NVIDIA ב-5 שנים האחרונות" title="מניית חברת NVIDIA ב-5 שנים האחרונות">
 <p style="text-align: center;">
 איור 4: מניית חברת NVIDIA ב-5 שנים האחרונות
 </p>

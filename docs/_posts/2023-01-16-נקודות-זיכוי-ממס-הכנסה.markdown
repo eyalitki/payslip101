@@ -14,7 +14,7 @@ permalink: /post/:title/
 אנחנו אולי שווים בפני החוק (בתיאוריה) אבל מעולם לא היינו שווים בפני מס הכנסה. למען האמת, מספר נקודות הזיכוי הוא השדה ה**יחידי** שתדרשו לעדכן בצורה עצמאית ב[תבנית חישוב תלושי השכר](https://drive.google.com/drive/folders/1JZmJg2pkD97mQ_fJOBcbuyMOiO_fFsCr?usp=sharing).
 
 <img style="display: block; margin: auto;"
-src="/_images/tax_points.png" alt="שדה נקודות זיכוי למס בטבלאות חישוב השכר - 2023" title="שדה נקודות זיכוי למס בטבלאות חישוב השכר - 2023">
+src="/assets/images/tax_points.png" alt="שדה נקודות זיכוי למס בטבלאות חישוב השכר - 2023" title="שדה נקודות זיכוי למס בטבלאות חישוב השכר - 2023">
 <p style="text-align: center;">
 שדה נקודות זיכוי למס בטבלאות חישוב השכר) - 2023
 </p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-13T14:09:41+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Payslip101</title><subtitle>תלוש השכר - מדריך למתחילים</subtitle><entry><title type="html">מענקי מניות לעובדים - ESPP</title><link href="http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp/" rel="alternate" type="text/html" title="מענקי מניות לעובדים - ESPP" /><published>2023-03-28T20:30:00+03:00</published><updated>2023-03-28T20:30:00+03:00</updated><id>http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp</id><content type="html" xml:base="http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp/"><![CDATA[<p><strong>תאריך פרסום:</strong> 28/03/2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-13T14:27:13+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Payslip101</title><subtitle>תלוש השכר - מדריך למתחילים</subtitle><entry><title type="html">מענקי מניות לעובדים - ESPP</title><link href="http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp/" rel="alternate" type="text/html" title="מענקי מניות לעובדים - ESPP" /><published>2023-03-28T20:30:00+03:00</published><updated>2023-03-28T20:30:00+03:00</updated><id>http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp</id><content type="html" xml:base="http://localhost:4000/post/%D7%9E%D7%A2%D7%A0%D7%A7%D7%99-%D7%9E%D7%A0%D7%99%D7%95%D7%AA-%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-espp/"><![CDATA[<p><strong>תאריך פרסום:</strong> 28/03/2023</p>
 
 <p>אחרי שבפוסט הקודם הצגנו איך עובד מענק מניות “רגיל” (<a href="../מענקי-מניות-לעובדים-rsu">RSU</a>) הגיע השלב להסביר על מענק מניות נוסף שקיים בחלק קטן יותר מהחברות, תוכנית ESPP. לפני שנתחיל, חשוב לי להדגיש שישנו בלבול גדול סביב המיסוי ואפילו סביב מועד אירועי המס הנובעים מהשתתפות בתוכניות ESPP בחברות שונות. הסיבה לכך היא שיש <strong>שני</strong> מסלולי ESPP <strong>שונים</strong> וחשוב להבין את ההבדל ביניהם.</p>
 
@@ -448,24 +448,24 @@
 
 <p>להלן דוגמאות מה-5 שנים האחרונות עבור תאגידי ענק אמריקאיים אשר לכולם משרדים בארץ:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/google_stock.png" alt="מניית חברת Google ב-5 שנים האחרונות" title="מניית חברת Google ב-5 שנים האחרונות" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/google_stock.png" alt="מניית חברת Google ב-5 שנים האחרונות" title="מניית חברת Google ב-5 שנים האחרונות" /></p>
 <p style="text-align: center;">
 איור 1: מניית חברת Google ב-5 שנים האחרונות
 </p>
 
-<p><img style="display: block; margin: auto;" src="/_images/apple_stock.png" alt="מניית חברת Apple ב-5 שנים האחרונות" title="מניית חברת Apple ב-5 שנים האחרונות" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/apple_stock.png" alt="מניית חברת Apple ב-5 שנים האחרונות" title="מניית חברת Apple ב-5 שנים האחרונות" /></p>
 <p style="text-align: center;">
 איור 2: מניית חברת Apple ב-5 שנים האחרונות
 </p>
 
-<p><img style="display: block; margin: auto;" src="/_images/amazon_stock.png" alt="מניית חברת Amazon ב-5 שנים האחרונות" title="מניית חברת Amazon ב-5 שנים האחרונות" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/amazon_stock.png" alt="מניית חברת Amazon ב-5 שנים האחרונות" title="מניית חברת Amazon ב-5 שנים האחרונות" /></p>
 <p style="text-align: center;">
 איור 3: מניית חברת Amazon ב-5 שנים האחרונות
 </p>
 
 <p>ואפילו בחברות אמריקאיות בסדר גודל קטן יותר התופעה נשמרת ולעיתים אף מקצינה:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/nvidia_stock.png" alt="מניית חברת NVIDIA ב-5 שנים האחרונות" title="מניית חברת NVIDIA ב-5 שנים האחרונות" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/nvidia_stock.png" alt="מניית חברת NVIDIA ב-5 שנים האחרונות" title="מניית חברת NVIDIA ב-5 שנים האחרונות" /></p>
 <p style="text-align: center;">
 איור 4: מניית חברת NVIDIA ב-5 שנים האחרונות
 </p>
@@ -672,7 +672,7 @@
 
 <p>30 ימי מסחר הם <strong>נצח</strong> במונחים של שוק ההון (חזרנו עד לסוף ינואר) והם משקפים תנודות גדולות אפילו בחברות ענק כמו Microsoft שנחשבת ליציבה יחסית. להלן גרף המנייה באותה התקופה:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/msft_stock_price_example.png" alt="דוגמא לתנודתיות מנייה על פני 30 ימי מסחר" title="דוגמא לתנודתיות מנייה על פני 30 ימי מסחר" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/msft_stock_price_example.png" alt="דוגמא לתנודתיות מנייה על פני 30 ימי מסחר" title="דוגמא לתנודתיות מנייה על פני 30 ימי מסחר" /></p>
 <p style="text-align: center;">
 איור 1: מניית חברת Microsoft על פני 30 ימי מסחר
 </p>
@@ -736,7 +736,7 @@
 <h2 id="סיכום-תלוש-השכר">סיכום תלוש השכר</h2>
 <p>בתחילת הדרך, הצגנו את הגרף הבא, המציג כמה נקבל בנטו על כל שקל העלאה ברוטו (שכירים, נכון לשנת 2023):</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/ברוטו_לנטו.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/ברוטו_לנטו.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" /></p>
 <p style="text-align: center;">
 איור 1: אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023
 </p>
@@ -755,7 +755,7 @@
 
 <p>עכשיו כשאנחנו מכירים את חלקי החישוב השונים, להלן הגרף עם התוויות עליו, רק כדי לקבל תחושה מה ההשפעה של הסעיפים השונים על השורה התחתונה שלנו בתלוש:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/מדרגות מיסוי - פירוט מלא - 2023.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - מפורט - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - מפורט - 2023" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/מדרגות מיסוי - פירוט מלא - 2023.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - מפורט - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - מפורט - 2023" /></p>
 <p style="text-align: center;">
 איור 2: אותו הגרף, הפעם עם תוויות
 </p>
@@ -966,7 +966,7 @@
 
 <p>בהינתן מדרגת מס הכנסה בטווחי שכר אלו (35% או 47%) ובהינתן שמדובר בהפרשת המעסיק הגדולה ביותר (8.33%), לתיקון חקיקה זה הייתה השפעה משמעותית על <a href="חוק-הנטו-הקבוע">חוק הנטו הקבוע</a>. מדובר על כ-3-4 אגורות נוספות של מיסוי על כל שקל העלאה בשכר, שיעור דומה להפרש בין חלק ממדרגות מס הכנסה. בגרף למטה ניתן לראות את השפעת תקרה זו על השורה התחתונה שלנו בתלוש השכר.</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/תקרת הפקדה לקרן פיצויים - 2023.png" alt="השפעת מיסוי כספי פיצויים על הנטו" title="השפעת מיסוי כספי פיצויים על הנטו" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/תקרת הפקדה לקרן פיצויים - 2023.png" alt="השפעת מיסוי כספי פיצויים על הנטו" title="השפעת מיסוי כספי פיצויים על הנטו" /></p>
 <p style="text-align: center;">
 איור 1: השפעת מיסוי כספי פיצויים על הנטו
 </p>
@@ -1061,7 +1061,7 @@
 
 <p>אחרי שעברנו על <a href="../חוק-הנטו-הקבוע">חוק הנטו הקבוע</a> ו<a href="../מדרגות-מס-הכנסה">מדרגות מס ההכנסה</a>, אנחנו כבר יכולים להסתכל על גרף בסיסי המתאר כמה אגורות נטו נקבל על כל שקל ברוטו העלאה בשכר (נכון לשנת 2023):</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/ביצת ביטוח לאומי - שאלה - 2023.png" alt="גרף ברוטו לנטו, כולל בור לא מוסבר" title="גרף ברוטו לנטו, כולל בור לא מוסבר" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/ביצת ביטוח לאומי - שאלה - 2023.png" alt="גרף ברוטו לנטו, כולל בור לא מוסבר" title="גרף ברוטו לנטו, כולל בור לא מוסבר" /></p>
 <p style="text-align: center;">
 איור 1: גרף ברוטו לנטו, כולל בור לא מוסבר
 </p>
@@ -1073,7 +1073,7 @@
 
 <p>אז איך עובד המיסוי של ביטוח לאומי (עבור שכירים)? המיסוי כולל בסה”כ 2 מדרגות ואפשר לראות אותו בקלות בטבלה הנ”ל שנלקחה מ<a href="https://www.btl.gov.il/Insurance/Rates/Pages/%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D%20%D7%A9%D7%9B%D7%99%D7%A8%D7%99%D7%9D.aspx">אתר הביטוח הלאומי</a>:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/מדרגות ביטוח לאומי - 2023.png" alt="מדרגות דמי ביטוח לאומי - 2023" title="מדרגות דמי ביטוח לאומי - 2023" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/מדרגות ביטוח לאומי - 2023.png" alt="מדרגות דמי ביטוח לאומי - 2023" title="מדרגות דמי ביטוח לאומי - 2023" /></p>
 <p style="text-align: center;">
 איור 2: מדרגות ביטוח לאומי - 2023
 </p>
@@ -1101,7 +1101,7 @@
 <h2 id="ביצת-השכר">ביצת השכר</h2>
 <p>אוקיי, אז למדנו שבמקביל למס הכנסה ישנן גם מדרגות מיסוי של ביטוח לאומי. בואו נלביש אותן על הגרף שראינו קודם לכן ונראה אם הן מסבירות את התופעה שנתקלנו בה:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/ביצת ביטוח לאומי - 2023.png" alt="גרף ברוטו לנטו, עכשיו עם מדרגות ביטוח לאומי" title="גרף ברוטו לנטו, עכשיו עם מדרגות ביטוח לאומי" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/ביצת ביטוח לאומי - 2023.png" alt="גרף ברוטו לנטו, עכשיו עם מדרגות ביטוח לאומי" title="גרף ברוטו לנטו, עכשיו עם מדרגות ביטוח לאומי" /></p>
 <p style="text-align: center;">
 איור 3: גרף ברוטו לנטו, עכשיו עם מדרגות ביטוח לאומי
 </p>
@@ -1244,7 +1244,7 @@
 <h3 id="הערת-שוליים">*הערת שוליים</h3>
 <p>אפקטיבית יש מדרגות נוספות, כפי שניתן לקרוא בפוסט על <a href="../חוק-הנטו-הקבוע">חוק הנטו הקבוע</a>, וכמו שגם אפשר לראות בגרף הבא המתאר כמה אגורות נטו ישארו לנו מכל שקל נוסף ברוטו:</p>
 
-<p><img style="display: block; margin: auto;" src="/_images/ברוטו_לנטו.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" /></p>
+<p><img style="display: block; margin: auto;" src="/assets/images/ברוטו_לנטו.png" alt="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" title="אגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023" /></p>
 <p style="text-align: center;">
 איור 1: גרף של האגורות נטו על כל שקל העלאה ברוטו (שכירים) - 2023
 </p>
