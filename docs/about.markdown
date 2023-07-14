@@ -1,6 +1,7 @@
 ---
 layout: default
 title: דברי פתיחה
+date: 2023-07-14 14:30:00 +0200
 permalink: /about/
 ---
 
