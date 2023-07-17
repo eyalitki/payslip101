@@ -2,4 +2,4 @@
 layout: null
 sitemap: false
 ---
-Sitemap: https://www.payslip101.info/sitemap.xml
+Sitemap: {{ 'sitemap.xml' | absolute_url }}
