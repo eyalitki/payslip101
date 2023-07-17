@@ -22,8 +22,8 @@ title: Payslip101
 email: eyal.itkin@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   תלוש השכר - מדריך למתחילים
-baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # Unused
+url: "https://www.payslip101.info/"
 twitter_username: eyalitkin_he
 github_username:  eyalitki
 
