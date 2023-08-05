@@ -2,7 +2,7 @@
 layout: default
 title: "מענקי מניות לעובדים - RSU"
 description: "מתי יוענקו לנו מענקי המניות, איך הם פועלים וכמה מיסים נשלם עליהם"
-date: 2023-07-21 11:34:00 +0300
+date: 2023-08-05 10:47:00 +0300
 tags: stocks
 permalink: /post/:title/
 ---
