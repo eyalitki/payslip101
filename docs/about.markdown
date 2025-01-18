@@ -1,7 +1,8 @@
 ---
 layout: default
 title: דברי פתיחה
-date: 2024-01-11 10:30:00 +0200
+description: תלוש השכר - מדריכים ומחשבונים למתחילים
+date: 2025-01-18 05:30:00 +0300
 permalink: /about/
 ---
 
