@@ -2,4 +2,9 @@
 layout: null
 sitemap: false
 ---
+User-agent: *
+Allow: /
+Disallow: /assets/css/
+Disallow: /assets/fonts/
+
 Sitemap: {{ 'sitemap.xml' | absolute_url }}
