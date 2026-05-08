@@ -2,7 +2,17 @@
 layout: null
 sitemap: false
 ---
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
 User-agent: *
+Allow: /
+Disallow: /assets/css/
+Disallow: /assets/fonts/
+
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: Claude-Web
+User-agent: Google-Extended
 Allow: /
 Disallow: /assets/css/
 Disallow: /assets/fonts/
