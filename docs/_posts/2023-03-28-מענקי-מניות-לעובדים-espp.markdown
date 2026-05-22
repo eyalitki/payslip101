@@ -140,7 +140,7 @@ author: Eyal Itkin
 * אחוז הנחה - 15% - יכול להשתנות מחברה לחברה, אך זה המקרה הנפוץ
 ולכן, עובדים **תמיד** ירוויחו מהתוכנית. המניות תמיד ירכשו בהנחה שתתווסף לשער הזול מבין תחילת וסוף התקופה, כך שאין סיכון*.
 
-<img style="display: block; margin: auto;"
+<img style="display: block; margin: auto; max-width: 60%;"
 src="/assets/images/espp_flowchart.svg" alt="תרשים זרימה המציג את תוכנית ה-ESPP" title="תרשים זרימה המציג את תוכנית ה-ESPP">
 <p style="text-align: center;">
 איור 1: תרשים זרימה המציג את תוכנית ה-ESPP
