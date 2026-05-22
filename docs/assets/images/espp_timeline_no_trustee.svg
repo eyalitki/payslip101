@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" style="font-family: Arial, sans-serif; background-color: #f8f9fa;">
+    <!-- Price Axis Segments -->
+    <!-- Income Tax Range (85 to 120) -->
+    <line x1="100" y1="140" x2="482" y2="140" stroke="#cc0000" stroke-width="6" />
+    
+    <!-- Capital Gains Range (120 to 140) -->
+    <line x1="482" y1="140" x2="700" y2="140" stroke="#2f5597" stroke-width="6" />
+    
+    <!-- Points on Axis -->
+    <!-- $85 (Purchase Price) -->
+    <circle cx="100" cy="140" r="8" fill="#333" />
+    <text x="100" y="170" font-size="14" text-anchor="middle" font-weight="bold" fill="#cc0000" direction="ltr">רכישה: $85</text>
+    
+    <!-- $100 (Start Price) -->
+    <line x1="264" y1="140" x2="264" y2="180" stroke="#333" stroke-width="1" />
+    <circle cx="264" cy="140" r="8" fill="#333" />
+    <text x="264" y="195" font-size="14" text-anchor="middle" font-weight="bold" fill="#333" direction="ltr">תחילת תוכנית: $100</text>
+    
+    <!-- $120 (End Price) -->
+    <line x1="482" y1="140" x2="482" y2="180" stroke="#333" stroke-width="1" />
+    <circle cx="482" cy="140" r="8" fill="#333" />
+    <text x="482" y="195" font-size="14" text-anchor="middle" font-weight="bold" fill="#333" direction="ltr">סיום תוכנית: $120</text>
+    
+    <!-- $140 (Sell Price) -->
+    <circle cx="700" cy="140" r="8" fill="#333" />
+    <text x="700" y="170" font-size="14" text-anchor="middle" font-weight="bold" fill="#2f5597" direction="ltr">מכירה: $140</text>
+
+    <!-- Tax Annotations for No Trustee -->
+    <!-- Annotation 1: Income Tax -->
+    <rect x="382" y="40" width="200" height="50" rx="5" fill="#f8d7da" stroke="#cc0000" stroke-width="2"/>
+    <text x="482" y="60" font-size="14" text-anchor="middle" font-weight="bold" fill="#cc0000">אירוע מס (הכנסת עבודה)</text>
+    <text x="482" y="80" font-size="14" text-anchor="middle" fill="#cc0000" direction="ltr">מס על ההטבה ($35)</text>
+    <line x1="482" y1="90" x2="482" y2="135" stroke="#cc0000" stroke-width="2" stroke-dasharray="4"/>
+
+    <!-- Annotation 2: Capital Gains -->
+    <rect x="600" y="40" width="200" height="50" rx="5" fill="#cce5ff" stroke="#2f5597" stroke-width="2"/>
+    <text x="700" y="60" font-size="14" text-anchor="middle" font-weight="bold" fill="#2f5597">אירוע מס (רווח הון)</text>
+    <text x="700" y="80" font-size="14" text-anchor="middle" fill="#2f5597" direction="ltr">מס על הרווח ($20)</text>
+    <line x1="700" y1="90" x2="700" y2="135" stroke="#2f5597" stroke-width="2" stroke-dasharray="4"/>
+</svg>
